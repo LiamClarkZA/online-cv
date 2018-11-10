@@ -97,9 +97,15 @@ projects:
         
       - title: Images via Sound
         link: "#hook"
-        tagline: "This project involved writing software which could encode/decode image 
-        data into/from a sound clip or 'chirp'. This involved mapping parts of the image 
-        to a frequency spectrum and decoding it using steganography."
+        tagline: "This project involved writing software which could encode/decode 
+        image data into/from a sound clip or 'chirp'. This involved mapping parts of 
+        the image to a frequency spectrum and decoding it using steganography.
+        
+      - title: Audio Hardware Accelerator
+        link: "#hook"
+        tagline: "This project involved developing a parallel hardware accelerator (which was 
+        implemented on a Xilinx Artix-7 FPGA) which could apply effects in the form of 
+        FIR or IIR filters to an audio stream in real-time."
 
 
 #publications:
@@ -130,16 +136,13 @@ skills:
         level: 95%
 
       - name: Electronic Systems Design (Embedded Systems)
-        level: 95%
+        level: 92%
 
       - name: Digital Signals Processing
         level: 90%
 
       - name: Control Systems Design
-        level: 90%
-
-      - name: Software Development
-        level: 90%
+        level: 85%
 
       - name: Database Architecture
         level: 80%
