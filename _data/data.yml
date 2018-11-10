@@ -99,7 +99,7 @@ projects:
         link: "#hook"
         tagline: "This project involved writing software which could encode/decode 
         image data into/from a sound clip or 'chirp'. This involved mapping parts of 
-        the image to a frequency spectrum and decoding it using steganography.
+        the image to a frequency spectrum and decoding it using steganography."
         
       - title: Audio Hardware Accelerator
         link: "#hook"
