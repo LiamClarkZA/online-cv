@@ -54,14 +54,11 @@ education:
       details: |
         I thoroughly enjoyed my undergraduate studies especially in areas 
         around electronic design, digital signal processing, control 
-        theory and computer science.
-        
-        My final year project involved designing a Stewart platform which 
+        theory and computer science. My final year project involved designing a Stewart platform which 
         was capable of simulating ocean dynamics involving a mix of many 
         of my interests.
         
-        Accomplishments/awards:
-
+        Accomplishments:
           - University of Cape Town's representative for the SAIEE National Student Competition 2018
           - Dean's Merit List for academic excellence 2015 - 2018
           - Golden Key Society invitation (top 15% of students) 2015 - 2018
@@ -151,7 +148,7 @@ skills:
         level: 75%
         
       - name: Machine Learing
-        level: 65%
+        level: 70%
 
 footer: >
     
