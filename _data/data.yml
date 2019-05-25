@@ -149,7 +149,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Software Development (Languages: C, C++, Rust, Go, Java, Python, Javascript, MATLAB)
+      - name: Software Development (C, C++, Rust, Go, Java, Python, Javascript, MATLAB)
         level: 95%
 
       - name: Electronic Systems Design
