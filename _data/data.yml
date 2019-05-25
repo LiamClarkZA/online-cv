@@ -43,27 +43,42 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I recently graduated from the University of Cape Town with a BSc in 
-      Electrical and Computer Engineering. I currenty work as a freelancer 
-      involved in developing IoT sensor/control systems and writing software.
+      I recently graduated from the University of Cape Town (UCT) with a BSc in Electrical 
+      and Computer Engineering. I am currently working on my MSc degree as part of the 
+      Rapid Acceleration and Manoeuvrability group in the University of Cape Town’s 
+      Mechatronics laboratory.
 
 education:
+    - degree: MSc in Electrical Engineering
+      university: University of Cape Town
+      time: 2019 - Present
+      details: |
+        I am currently working in the Mechatronics laboratory at the University of Cape Town 
+        as part of the Rapid Acceleration and Manoeuvrability group. I am exploring
+        techniques for constructing 3D skeletal pose estimates of Cheetahs from video footage 
+        in order to study their locomotion. Current areas of interest include computer vision,
+        machine learning (specific to computer vision and pose estimation), statistics and 
+        control theory.
+          
     - degree: BSc in Electrical and Computer Engineering
       university: University of Cape Town
       time: 2015 - 2018
       details: |
         I thoroughly enjoyed my undergraduate studies especially in areas 
-        around electronic design, digital signal processing, control 
-        theory and computer science. My final year project involved designing a 
-        Stewart platform which was capable of simulating ocean dynamics. This 
-        project was ultimately successful and I was asked to present several talks 
-        on the project including one at the SAIEE (South African Institute of Electrical Engineers) 
-        National Student Competition.
+        around electronics design, digital signal processing, control theory 
+        and computer science. One of my main highlights was my final year 
+        project which involved designing a Stewart platform which was capable 
+        of simulating ocean dynamics. This project was ultimately successful 
+        and I was asked to present several talks on the project including one 
+        at the SAIEE (South African Institute of Electrical Engineers) National 
+        Student Competition.
         
         Accomplishments:
+          - Graduated with First Class Honors with the class medal for Electrical and Computer Engineering (top weighted average for year of graduation) 2018
+          - Winner of the provincial round for the SAIEE National Student Competition in the Western Cape 2018
           - University of Cape Town's representative for the SAIEE National Student Competition 2018
-          - Dean's Merit List for academic excellence 2015 - 2018
-          - Golden Key Society invitation (top 15% of students) 2015 - 2018
+          - Dean's Merit List for academic excellence 2015, 2016, 2017, 2018
+          - Golden Key Society invitation (top 15% of students) 2015, 2016, 2017, 2018
 
 experiences:
 
@@ -134,29 +149,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Programming (C, C++, Java, Python, MATLAB)
+      - name: Software Development (Languages: C, C++, Rust, Go, Java, Python, Javascript, MATLAB)
         level: 95%
 
-      - name: Electronic Systems Design (Embedded Systems)
+      - name: Electronic Systems Design
         level: 92%
-        
-      - name: CAD Software (Altium, SolidWorks)
+
+      - name: Full Stack Web Development (React, Nodejs, Go, Postgres, Redis)
         level: 91%
-
-      - name: Digital Signals Processing
+        
+      - name: CAD (Altium, KiCad, SolidWorks)
         level: 90%
-
-      - name: Control Systems Design
-        level: 85%
-
-      - name: Database Architecture
-        level: 80%
-        
-      - name: Backend Web Development
-        level: 75%
-        
-      - name: Machine Learing
-        level: 71%
 
 footer: >
     
