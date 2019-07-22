@@ -43,11 +43,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-	I recently graduated from the University of Cape Town (UCT) with a BSc in Electrical 
-	and Computer Engineering. I am currently working on my MSc degree as part of the 
-	Rapid Acceleration and Manoeuvrability group in the University of Cape Town’s 
-	Mechatronics laboratory. I also work as a freelance software developer when I have 
-	time available.
+      I recently graduated from the University of Cape Town (UCT) with a BSc in Electrical 
+      and Computer Engineering. I am currently working on my MSc degree as part of the 
+      Rapid Acceleration and Manoeuvrability group in the University of Cape Town’s 
+      Mechatronics laboratory. I also work as a freelance software developer when I have 
+      time available.
 
 education:
     - degree: MSc in Electrical Engineering
@@ -55,15 +55,15 @@ education:
       time: 2019 - Present
       details: |
         In working towards my MSc, I work as part of the Rapid Acceleration and Manoeuvrability (RAM) 
-	group in UCT’s Mechatronics laboratory where I am exploring techniques for constructing 
-	3D skeletal pose estimates of cheetahs from video footage to study their locomotion. 
-	This combines a range of areas I am passionate about including computer vision, artificial 
-	intelligence and high-performance computing.
-	
-	The overarching goal for my MSc is to develop a markerless 3D motion-capture system. 
-	This is comprised of a set of tools which can be used to capture the 3D pose of a subject 
-	from video footage without the need for markers to be placed on them (unlike most commercially 
-	available motion-capture systems at the moment).
+        group in UCT’s Mechatronics laboratory where I am exploring techniques for constructing 
+        3D skeletal pose estimates of cheetahs from video footage to study their locomotion. 
+        This combines a range of areas I am passionate about including computer vision, artificial 
+        intelligence and high-performance computing.
+        
+        The overarching goal for my MSc is to develop a markerless 3D motion-capture system. 
+        This is comprised of a set of tools which can be used to capture the 3D pose of a subject 
+        from video footage without the need for markers to be placed on them (unlike most commercially 
+        available motion-capture systems at the moment).
           
     - degree: BSc in Electrical and Computer Engineering
       university: University of Cape Town
