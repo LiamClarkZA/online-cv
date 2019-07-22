@@ -6,24 +6,26 @@ career-profile:
       Rapid Acceleration and Manoeuvrability group in the University of Cape Town’s 
       Mechatronics laboratory. I also work as a freelance software developer when I have 
       time available.
-  title: "Career Profile"
+  title: Career Profile
 education: 
   - 
-    degree: "MSc in Electrical Engineering"
-    details: "In working towards my MSc, I work as part of the Rapid Acceleration and Manoeuvrability (RAM) \n\
-        group in UCT’s Mechatronics laboratory where I am exploring techniques for constructing \n\
-        3D skeletal pose estimates of cheetahs from video footage to study their locomotion. \n\
-        This combines a range of areas I am passionate about including computer vision, artificial \n\
-        intelligence and high-performance computing.\n\n\
-        The overarching goal for my MSc is to develop a markerless 3D motion-capture system. \n\
-        This is comprised of a set of tools which can be used to capture the 3D pose of a subject \n\
-        from video footage without the need for markers to be placed on them (unlike most commercially \n\
-        available motion-capture systems at the moment).\n\
-        \x20 \n"
-    time: "2019 - Present"
-    university: "University of Cape Town"
+    degree: MSc in Electrical Engineering
+    time: 2019 - Present
+    university: University of Cape Town
+    details: In working towards my MSc, I work as part of the Rapid Acceleration and Manoeuvrability (RAM)
+        group in UCT’s Mechatronics laboratory where I am exploring techniques for constructing
+        3D skeletal pose estimates of cheetahs from video footage to study their locomotion.
+        This combines a range of areas I am passionate about including computer vision, artificial
+        intelligence and high-performance computing.
+        The overarching goal for my MSc is to develop a markerless 3D motion-capture system.
+        This is comprised of a set of tools which can be used to capture the 3D pose of a subject
+        from video footage without the need for markers to be placed on them (unlike most commercially
+        available motion-capture systems at the moment).
+    
   - 
-    degree: "BSc in Electrical and Computer Engineering"
+    degree: BSc in Electrical and Computer Engineering
+    time: 2015 - 2018
+    university: University of Cape Town
     details: |
         I thoroughly enjoyed my undergraduate studies especially in areas 
         around electronics design, digital signal processing, control theory 
@@ -40,52 +42,54 @@ education:
           - University of Cape Town's representative for the SAIEE National Student Competition 2018
           - Dean's Merit List for academic excellence 2015, 2016, 2017, 2018
           - Golden Key Society invitation (top 15% of students) 2015, 2016, 2017, 2018
-    time: "2015 - 2018"
-    university: "University of Cape Town"
+
 experiences: 
   - 
-    company: "University of Cape Town's Electrical Engineering Department, Cape Town"
+    company: University of Cape Town's Electrical Engineering Department, Cape Town
+    role: Teaching Assistant
+    time: 2019
     details: |
         In the 1st semester of 2019 I worked as a teaching assistant for the EEE3088F electrical engineering 
         design course. This mostly involved managing the admin related to the course including tasks like managing 
         a group of tutors, marking, tutoring, managing assignments and tests and invigilating tests and exams.
-    role: "Teaching Assistant"
-    time: 2019
   - 
-    company: "University of Cape Town's Rapid Acceleration and Manoeuvrability Group, Cape Town"
+    company: University of Cape Town's Rapid Acceleration and Manoeuvrability Group, Cape Town
+    role: Lab Assistant
+    time: 2017 - 2018
     details: |
         During my 2017 December vacation I worked in a robotics lab implementing a 
         high bandwidth, low latency interface which could be used by researchers 
         in the lab to communicate with quadroped or bipedal robots as they ran 
         across a testing track. The project involved using the EtherCAT protocol 
         as well as writing an API and GUI (written in C#).
-    role: "Lab Assistant"
-    time: "2017 - 2018"
   - 
-    company: "weFix, Cape Town"
+    company: weFix, Cape Town
+    role: Software Developer Intern
+    time: 2017
     details: |
         During my internship at weFix I worked in a software engineering team 
         as a backend web developer. I developed several APIs for various 
         business tools as well as upgrading the existing database architecture.
-    role: "Software Developer Intern"
-    time: 2017
-footer: ""
+
+footer: 
 projects: 
+  title: Projects
+  intro: > 
+    Below are some of my undergraduate projects I have been involved with:
   assignments: 
     - 
-      tagline: "This project was my final year engineering project where I designed, built and tested a Stewart platform to assess its viability as an ocean wave simulator."
-      title: "The Stewart Platform as an Ocean Dynamics Simulator"
+      tagline: This project was my final year engineering project where I designed, built and tested a Stewart platform to assess its viability as an ocean wave simulator.
+      title: The Stewart Platform as an Ocean Dynamics Simulator
     - 
-      tagline: "This project involved writing software which could encode/decode image data into/from a sound clip or 'chirp'. This involved mapping parts of the image to a frequency spectrum and decoding it using steganography."
-      title: "Images via Sound"
+      tagline: This project involved writing software which could encode/decode image data into/from a sound clip or 'chirp'. This involved mapping parts of the image to a frequency spectrum and decoding it using steganography.
+      title: Images via Sound
     - 
-      tagline: "This project involved developing a parallel hardware accelerator (which was implemented on a Xilinx Artix-7 FPGA) which could apply effects in the form of FIR or IIR filters to an audio stream in real-time."
-      title: "Audio Hardware Accelerator"
-  intro: "Below are some of my undergraduate projects I have been involved with:\n"
-  title: Projects
+      tagline: This project involved developing a parallel hardware accelerator (which was implemented on a Xilinx Artix-7 FPGA) which could apply effects in the form of FIR or IIR filters to an audio stream in real-time.
+      title: Audio Hardware Accelerator
+
 sidebar: 
   about: false
-  avatar: "https://avatars2.githubusercontent.com/u/15366437?v=4"
+  avatar: https://avatars2.githubusercontent.com/u/15366437?v=4
   bitbucket: ~
   codewars: ~
   education: false
@@ -110,24 +114,24 @@ sidebar:
       idiom: Afrikaans
       level: Intermediate
   linkedin: LiamClarkZA
-  name: "Liam Clark"
-  phone: "071 895 0624"
+  name: Liam Clark
+  phone: 071 895 0624
   stack-overflow: 7568006/liam-clark
-  tagline: "Electrical and Computer Engineer"
+  tagline: Electrical and Computer Engineer
   twitter: ~
   website: liamclarkza.github.io
 skills: 
-  title: "Skills & Proficiency"
+  title: Skills & Proficiency
   toolset: 
     - 
       level: 95%
-      name: "Software Development (C, C++, Rust, Go, Java, Python, Javascript, MATLAB)"
+      name: Software Development (C, C++, Rust, Go, Java, Python, Javascript, MATLAB)
     - 
       level: 92%
-      name: "Electronic Systems Design"
+      name: Electronic Systems Design
     - 
       level: 91%
-      name: "Full Stack Web Development (React, Nodejs, Go, Postgres, Redis)"
+      name: Full Stack Web Development (React, Nodejs, Go, Postgres, Redis)
     - 
       level: 90%
-      name: "CAD (Altium, KiCad, SolidWorks)"
+      name: CAD (Altium, KiCad, SolidWorks)
