@@ -43,22 +43,27 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I recently graduated from the University of Cape Town (UCT) with a BSc in Electrical 
-      and Computer Engineering. I am currently working on my MSc degree as part of the 
-      Rapid Acceleration and Manoeuvrability group in the University of Cape Town’s 
-      Mechatronics laboratory.
+	I recently graduated from the University of Cape Town (UCT) with a BSc in Electrical 
+	and Computer Engineering. I am currently working on my MSc degree as part of the 
+	Rapid Acceleration and Manoeuvrability group in the University of Cape Town’s 
+	Mechatronics laboratory. I also work as a freelance software developer when I have 
+	time available.
 
 education:
     - degree: MSc in Electrical Engineering
       university: University of Cape Town
       time: 2019 - Present
       details: |
-        I am currently working in the Mechatronics laboratory at the University of Cape Town 
-        as part of the Rapid Acceleration and Manoeuvrability group. I am exploring
-        techniques for constructing 3D skeletal pose estimates of Cheetahs from video footage 
-        in order to study their locomotion. Current areas of interest include computer vision,
-        machine learning (specific to computer vision and pose estimation), statistics and 
-        control theory.
+        In working towards my MSc, I work as part of the Rapid Acceleration and Manoeuvrability (RAM) 
+	group in UCT’s Mechatronics laboratory where I am exploring techniques for constructing 
+	3D skeletal pose estimates of cheetahs from video footage to study their locomotion. 
+	This combines a range of areas I am passionate about including computer vision, artificial 
+	intelligence and high-performance computing.
+	
+	The overarching goal for my MSc is to develop a markerless 3D motion-capture system. 
+	This is comprised of a set of tools which can be used to capture the 3D pose of a subject 
+	from video footage without the need for markers to be placed on them (unlike most commercially 
+	available motion-capture systems at the moment).
           
     - degree: BSc in Electrical and Computer Engineering
       university: University of Cape Town
@@ -81,12 +86,19 @@ education:
           - Golden Key Society invitation (top 15% of students) 2015, 2016, 2017, 2018
 
 experiences:
+    - role: Teaching Assistant
+      time: 2019
+      company: University of Cape Town's Electrical Engineering Department, Cape Town
+      details: |
+        In the 1st semester of 2019 I worked as a teaching assistant for the EEE3088F electrical engineering 
+	design course. This mostly involved managing the admin related to the course including tasks like managing 
+	a group of tutors, marking, tutoring, managing assignments and tests and invigilating tests and exams.
 
     - role: Lab Assistant
       time: 2017 - 2018
       company: University of Cape Town's Rapid Acceleration and Manoeuvrability Group, Cape Town
       details: |
-        During my December vacation I worked in a robotics lab developing a 
+        During my 2017 December vacation I worked in a robotics lab implementing a 
         high bandwidth, low latency interface which could be used by researchers 
         in the lab to communicate with quadroped or bipedal robots as they ran 
         across a testing track. The project involved using the EtherCAT protocol 
@@ -103,23 +115,23 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Below are some of my projects or projects I have been involved with:
+      Below are some of my undergraduate projects I have been involved with:
 
     assignments:
       - title: The Stewart Platform as an Ocean Dynamics Simulator
-        link: "#hook"
+#        link: "#hook"
         tagline: "This project was my final year engineering project where I 
         designed, built and tested a Stewart platform to assess its viability 
         as an ocean wave simulator."
         
       - title: Images via Sound
-        link: "#hook"
+#        link: "#hook"
         tagline: "This project involved writing software which could encode/decode 
         image data into/from a sound clip or 'chirp'. This involved mapping parts of 
         the image to a frequency spectrum and decoding it using steganography."
         
       - title: Audio Hardware Accelerator
-        link: "#hook"
+#        link: "#hook"
         tagline: "This project involved developing a parallel hardware accelerator (which was 
         implemented on a Xilinx Artix-7 FPGA) which could apply effects in the form of 
         FIR or IIR filters to an audio stream in real-time."
